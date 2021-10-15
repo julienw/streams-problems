@@ -1,9 +1,7 @@
 # streams-problems
 This reproduces an issue in node v14 and v16 with streams
 
-You need yarn installed, and `nvm` so that it's easier to move between node versions.
-
-Then you can use `nvm` to run the script with various versions of node:
+You can use `nvm` to run the script with various versions of node:
 ```
 ### node v12
 nvm run v12 node-streams
